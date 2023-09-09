@@ -1,0 +1,15 @@
+*.suo
+*.db
+*.tlog
+*.log
+*.lst
+*.sdf
+*.vcxproj
+*.vcxproj.user
+*.obj
+*.vs
+.DS_Store
+Debug/
+Release/
+Project5/extraCredit_2.txt
+Project2/TestText.txt
